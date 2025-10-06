@@ -1,6 +1,6 @@
 (
     output: "all",
-    source: Path("/home/jordan/Nextcloud/Documents/Images, Designs/Desktop Wallpaper Backgrounds/nix bitcoin logo 01 wide.png"),
+    source: Path("/home/jordan/Pictures/nix bitcoin logo 01 wide.png"),
     filter_by_theme: true,
     rotation_frequency: 300,
     filter_method: Lanczos,
